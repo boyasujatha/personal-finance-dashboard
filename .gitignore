@@ -1,0 +1,20 @@
+# Python Virtual Environment
+Lib/
+Scripts/
+etc/
+share/
+include/
+pyvenv.cfg
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit Local Configurations
+.streamlit/
+
+# OS Files
+.DS_Store
+Thumbs.db
